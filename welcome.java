@@ -1,5 +1,7 @@
 Class Welcome{
   public static void main(String[] args){
-    System.out.println("Welcome tp java");
+    System.out.println("Welcome to java");
+     System.out.println("Welcome to jdk");
+     System.out.println("Welcome tp jvm");
   }
 }
